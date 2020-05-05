@@ -11,3 +11,7 @@ print("The temperature in Celcius is {:.2f}".format(Celcius))
 Kelvin = Celcius + 273.15
 
 print("The temperature in Kelvin is {:.2f}".format (Kelvin))
+
+'''
+Takes the user input of the temperature in Farenheit and outputs the temperature in both Celcius and Kelvin
+'''
